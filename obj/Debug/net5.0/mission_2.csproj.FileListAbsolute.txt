@@ -1,0 +1,15 @@
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.csproj.AssemblyReference.cache
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.AssemblyInfoInputs.cache
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.AssemblyInfo.cs
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.csproj.CoreCompileInputs.cache
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/bin/Debug/net5.0/mission_2.deps.json
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/bin/Debug/net5.0/mission_2.runtimeconfig.json
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/bin/Debug/net5.0/mission_2.runtimeconfig.dev.json
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/bin/Debug/net5.0/mission_2.dll
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/bin/Debug/net5.0/ref/mission_2.dll
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/bin/Debug/net5.0/mission_2.pdb
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.dll
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/ref/mission_2.dll
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.pdb
+/Users/isaac.wadd/Library/CloudStorage/OneDrive-BYU/Winter 2023/413 - Enterprise Dev/projects/mission_2/obj/Debug/net5.0/mission_2.genruntimeconfig.cache
